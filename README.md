@@ -24,6 +24,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | Problem No. | Problem Name | Difficulty | Solution |
 |-------------|--------------|------------|----------|
 | 78 | Subsets | Medium | [78-subsets.cpp](78-subsets.cpp) |
+| 39  | Combination Sum | Medium | [39-Combination-Sum.cpp](39-Combination-Sum.cpp) |
 
 
 > You can update this table each time you add a new solution.
