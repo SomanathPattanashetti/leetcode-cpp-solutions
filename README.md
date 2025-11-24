@@ -26,6 +26,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 78 | Subsets | Medium | [78-subsets.cpp](78-subsets.cpp) |
 | 39  | Combination Sum | Medium | [39-Combination-Sum.cpp](39-Combination-Sum.cpp) |
 | 90 | Subsets II | Medium | [90-Subsets-II.cpp](90-Subsets-II.cpp) |
+| 93 | Restore IP Addresses | Medium | [93-restore-ip-addresses.cpp](93-restore-ip-addresses.cpp) |
 
 > You can update this table each time you add a new solution.
 
