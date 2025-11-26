@@ -28,6 +28,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 90 | Subsets II | Medium | [90-Subsets-II.cpp](90-Subsets-II.cpp) |
 | 22 | Generate Parentheses | Medium | [22-generate-parentheses.cpp](22-generate-parentheses.cpp) |
 | 93 | Restore IP Addresses | Medium | [93-restore-ip-addresses.cpp](93-restore-ip-addresses.cpp) |
+| 40 | Combination Sum II | Medium | [40-combination-sum-ii.cpp](40-combination-sum-ii.cpp) |
 
 > You can update this table each time you add a new solution.
 
