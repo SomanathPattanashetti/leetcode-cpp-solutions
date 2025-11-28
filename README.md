@@ -30,6 +30,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 93 | Restore IP Addresses | Medium | [93-restore-ip-addresses.cpp](93-restore-ip-addresses.cpp) |
 | 40 | Combination Sum II | Medium | [40-combination-sum-ii.cpp](40-combination-sum-ii.cpp) |
 | 131 | Palindrome Partitioning | Medium | [131-palindrome-partitioning.cpp](131-palindrome-partitioning.cpp) |
+| 17 | Letter Combinations of a Phone Number | Medium | [17-letter-combinations-of-a-phone-number.cpp](17-letter-combinations-of-a-phone-number.cpp) |
 | 79 | Word Search | Medium | [79-word-search.cpp](79-word-search.cpp) |
 
 > You can update this table each time you add a new solution.
