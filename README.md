@@ -32,6 +32,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 131 | Palindrome Partitioning | Medium | [131-palindrome-partitioning.cpp](131-palindrome-partitioning.cpp) |
 | 17 | Letter Combinations of a Phone Number | Medium | [17-letter-combinations-of-a-phone-number.cpp](17-letter-combinations-of-a-phone-number.cpp) |
 | 79 | Word Search | Medium | [79-word-search.cpp](79-word-search.cpp) |
+| 36 | Valid Sudoku | Medium | [36-valid-sudoku.cpp](36-valid-sudoku.cpp) |
 
 > You can update this table each time you add a new solution.
 
