@@ -33,6 +33,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 17 | Letter Combinations of a Phone Number | Medium | [17-letter-combinations-of-a-phone-number.cpp](17-letter-combinations-of-a-phone-number.cpp) |
 | 79 | Word Search | Medium | [79-word-search.cpp](79-word-search.cpp) |
 | 36 | Valid Sudoku | Medium | [36-valid-sudoku.cpp](36-valid-sudoku.cpp) |
+| —  | Reverse a Stack (GFG) | Easy | [reverse-a-stack-gfg.cpp](reverse-a-stack-gfg.cpp) |
+
 
 > You can update this table each time you add a new solution.
 
