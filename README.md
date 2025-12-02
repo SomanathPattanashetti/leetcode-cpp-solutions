@@ -35,6 +35,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 36 | Valid Sudoku | Medium | [36-valid-sudoku.cpp](36-valid-sudoku.cpp) |
 | —  | Reverse a Stack (GFG) | Easy | [reverse-a-stack-gfg.cpp](reverse-a-stack-gfg.cpp) |
 | —  | Rat in a Maze (Backtracking) | Medium | [rat-in-a-maze.cpp](rat-in-a-maze.cpp) |
+| —  | Power Set (All Possible Strings) | Easy | [power-set.cpp](power-set.cpp) |
 
 
 > You can update this table each time you add a new solution.
