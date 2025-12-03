@@ -34,8 +34,9 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 79 | Word Search | Medium | [79-word-search.cpp](79-word-search.cpp) |
 | 36 | Valid Sudoku | Medium | [36-valid-sudoku.cpp](36-valid-sudoku.cpp) |
 | —  | Reverse a Stack (GFG) | Easy | [reverse-a-stack-gfg.cpp](reverse-a-stack-gfg.cpp) |
-| —  | Rat in a Maze (Backtracking) | Medium | [rat-in-a-maze.cpp](rat-in-a-maze.cpp) |
-| —  | Power Set (All Possible Strings) | Easy | [power-set.cpp](power-set.cpp) |
+| —  | Rat in a Maze (GFG) | Medium | [rat-in-a-maze.cpp](rat-in-a-maze.cpp) |
+| —  | Power Set (GFG) | Easy | [power-set.cpp](power-set.cpp) |
+| 77 | Combinations | Medium | [77-combinations.cpp](77-combinations.cpp) |
 
 
 > You can update this table each time you add a new solution.
