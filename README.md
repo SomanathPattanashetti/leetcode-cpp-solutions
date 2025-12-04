@@ -37,6 +37,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | —  | Rat in a Maze (GFG) | Medium | [rat-in-a-maze.cpp](rat-in-a-maze.cpp) |
 | —  | Power Set (GFG) | Easy | [power-set.cpp](power-set.cpp) |
 | 77 | Combinations | Medium | [77-combinations.cpp](77-combinations.cpp) |
+| 46 | Permutations | Medium | [46-permutations.cpp](46-permutations.cpp) |
 
 
 > You can update this table each time you add a new solution.
