@@ -38,6 +38,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | —  | Power Set (GFG) | Easy | [power-set.cpp](power-set.cpp) |
 | 77 | Combinations | Medium | [77-combinations.cpp](77-combinations.cpp) |
 | 46 | Permutations | Medium | [46-permutations.cpp](46-permutations.cpp) |
+| 912 | Sort an Array | Medium | [912-sort-an-array.cpp](912-sort-an-array.cpp) |
 
 
 > You can update this table each time you add a new solution.
