@@ -39,6 +39,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 77 | Combinations | Medium | [77-combinations.cpp](77-combinations.cpp) |
 | 46 | Permutations | Medium | [46-permutations.cpp](46-permutations.cpp) |
 | 912 | Sort an Array | Medium | [912-sort-an-array.cpp](912-sort-an-array.cpp) |
+| 237 | Delete Node in a Linked List | Medium | [237-delete-node-in-a-linked-list.cpp](237-delete-node-in-a-linked-list.cpp) |
 
 
 > You can update this table each time you add a new solution.
