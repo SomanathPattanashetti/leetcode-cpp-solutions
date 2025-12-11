@@ -44,6 +44,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 876 | Middle of the Linked List | Easy | Hare & Tortoise (Slow–Fast Pointer) | [876-middle-of-linked-list.cpp](876-middle-of-linked-list.cpp) |
 | 328 | Odd Even Linked List | Medium | [328-odd-even-linked-list.cpp](328-odd-even-linked-list.cpp) |
 | 142 | Linked List Cycle II | Medium | [142-linked-list-cycle-ii.cpp](142-linked-list-cycle-ii.cpp) |
+| 382 | Linked List Random Node | Medium | [382-linked-list-random-node.cpp](382-linked-list-random-node.cpp) |
 
 
 > You can update this table each time you add a new solution.
