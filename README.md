@@ -46,6 +46,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 142 | Linked List Cycle II | Medium | [142-linked-list-cycle-ii.cpp](142-linked-list-cycle-ii.cpp) |
 | 382 | Linked List Random Node | Medium | [382-linked-list-random-node.cpp](382-linked-list-random-node.cpp) |
 | 109 | Convert Sorted List to Binary Search Tree | Medium | [109-sorted-list-to-bst.cpp](109-sorted-list-to-bst.cpp) |
+| 21  | Merge Two Sorted Lists | Easy | [21-merge-two-sorted-lists.cpp](21-merge-two-sorted-lists.cpp) |
 
 
 > You can update this table each time you add a new solution.
