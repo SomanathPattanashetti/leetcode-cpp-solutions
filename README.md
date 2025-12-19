@@ -52,6 +52,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 976 | Largest Perimeter Triangle | Easy | [976-largest-perimeter-triangle.cpp](976-largest-perimeter-triangle.cpp) |
 | 523 | Continuous Subarray Sum | Medium | [523-continuous-subarray-sum.cpp](523-continuous-subarray-sum.cpp) |
 | 15 | 3Sum | Medium | [15-3sum.cpp](15-3sum.cpp) |
+| 16 | 3Sum Closest | Medium | [16-3sum-closest.cpp](16-3sum-closest.cpp) |
 
 
 > You can update this table each time you add a new solution.
