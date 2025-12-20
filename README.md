@@ -53,6 +53,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 523 | Continuous Subarray Sum | Medium | [523-continuous-subarray-sum.cpp](523-continuous-subarray-sum.cpp) |
 | 15 | 3Sum | Medium | [15-3sum.cpp](15-3sum.cpp) |
 | 16 | 3Sum Closest | Medium | [16-3sum-closest.cpp](16-3sum-closest.cpp) |
+| 31 | Next Permutation | Medium | [31-next-permutation.cpp](31-next-permutation.cpp) |
 
 
 > You can update this table each time you add a new solution.
