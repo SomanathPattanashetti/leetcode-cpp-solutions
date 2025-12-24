@@ -57,6 +57,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 48 | Rotate Image | Medium | [48-rotate-image.cpp](48-rotate-image.cpp) |
 | 1329 | Sort the Matrix Diagonally | Medium | [1329-sort-the-matrix-diagonally.cpp](1329-sort-the-matrix-diagonally.cpp) |
 | 498 | Diagonal Traverse | Medium | [498-diagonal-traverse.cpp](498-diagonal-traverse.cpp) |
+| 56 | Merge Intervals | Medium | [56-merge-intervals.cpp](56-merge-intervals.cpp) |
 
 
 > You can update this table each time you add a new solution.
