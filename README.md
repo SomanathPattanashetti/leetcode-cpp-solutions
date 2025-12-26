@@ -59,6 +59,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 498 | Diagonal Traverse | Medium | [498-diagonal-traverse.cpp](498-diagonal-traverse.cpp) |
 | 56 | Merge Intervals | Medium | [56-merge-intervals.cpp](56-merge-intervals.cpp) |
 | 57 | Insert Interval | Medium | [57-insert-interval.cpp](57-insert-interval.cpp) |
+| 452 | Minimum Number of Arrows to Burst Balloons | Medium | [452-minimum-number-of-arrows-to-burst-balloons.cpp](452-minimum-number-of-arrows-to-burst-balloons.cpp) |
 
 
 > You can update this table each time you add a new solution.
