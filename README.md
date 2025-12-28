@@ -61,6 +61,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 57 | Insert Interval | Medium | [57-insert-interval.cpp](57-insert-interval.cpp) |
 | 452 | Minimum Number of Arrows to Burst Balloons | Medium | [452-minimum-number-of-arrows-to-burst-balloons.cpp](452-minimum-number-of-arrows-to-burst-balloons.cpp) |
 | 2090 | K Radius Subarray Averages | Medium | [2090-k-radius-subarray-averages.cpp](2090-k-radius-subarray-averages.cpp) |
+| 438 | Find All Anagrams in a String | Medium | [438-find-all-anagrams-in-a-string.cpp](438-find-all-anagrams-in-a-string.cpp) |
 
 
 > You can update this table each time you add a new solution.
