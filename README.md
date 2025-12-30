@@ -63,6 +63,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 2090 | K Radius Subarray Averages | Medium | [2090-k-radius-subarray-averages.cpp](2090-k-radius-subarray-averages.cpp) |
 | 438 | Find All Anagrams in a String | Medium | [438-find-all-anagrams-in-a-string.cpp](438-find-all-anagrams-in-a-string.cpp) |
 | 209 | Minimum Size Subarray Sum | Medium | [209-minimum-size-subarray-sum.cpp](209-minimum-size-subarray-sum.cpp) |
+| 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | [1456-max-vowels-substring.cpp](1456-max-vowels-substring.cpp) |
 
 
 > You can update this table each time you add a new solution.
