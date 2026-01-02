@@ -66,6 +66,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | [1456-max-vowels-substring.cpp](1456-max-vowels-substring.cpp) |
 | 76 | Minimum Window Substring | Hard | [76-minimum-window-substring.cpp](76-minimum-window-substring.cpp) |
 | 3 | Longest Substring Without Repeating Characters | Medium | [3-longest-substring-without-repeating-characters.cpp](3-longest-substring-without-repeating-characters.cpp) |
+| 424 | Longest Repeating Character Replacement | Medium | [424-longest-repeating-character-replacement.cpp](424-longest-repeating-character-replacement.cpp) |
 
 
 > You can update this table each time you add a new solution.
