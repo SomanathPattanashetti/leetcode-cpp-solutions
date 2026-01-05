@@ -69,6 +69,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 424 | Longest Repeating Character Replacement | Medium | [424-longest-repeating-character-replacement.cpp](424-longest-repeating-character-replacement.cpp) |
 | 567 | Permutation in String | Medium | [567-permutation-in-string.cpp](567-permutation-in-string.cpp) |
 | 739 | Daily Temperatures | Medium | [739-daily-temperatures.cpp](739-daily-temperatures.cpp) |
+| 1047 | Remove All Adjacent Duplicates In String | Easy | [1047-remove-all-adjacent-duplicates-in-string.cpp](1047-remove-all-adjacent-duplicates-in-string.cpp) |
 
 
 > You can update this table each time you add a new solution.
