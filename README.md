@@ -71,6 +71,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 739 | Daily Temperatures | Medium | [739-daily-temperatures.cpp](739-daily-temperatures.cpp) |
 | 1047 | Remove All Adjacent Duplicates In String | Easy | [1047-remove-all-adjacent-duplicates-in-string.cpp](1047-remove-all-adjacent-duplicates-in-string.cpp) |
 | 150 | Evaluate Reverse Polish Notation | Medium | [150-evaluate-reverse-polish-notation.cpp](150-evaluate-reverse-polish-notation.cpp) |
+| 901 | Online Stock Span | Medium | [901-online-stock-span.cpp](901-online-stock-span.cpp) |
 
 
 > You can update this table each time you add a new solution.
