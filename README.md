@@ -74,6 +74,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 901 | Online Stock Span | Medium | [901-online-stock-span.cpp](901-online-stock-span.cpp) |
 | 20 | Valid Parentheses | Easy | [20-valid-parentheses.cpp](20-valid-parentheses.cpp) |
 | 2390 | Removing Stars From a String | Medium | [2390-removing-stars-from-a-string.cpp](2390-removing-stars-from-a-string.cpp) |
+| 2799 | Count Complete Subarrays in an Array | Medium | [2799-count-complete-subarrays-in-an-array.cpp](2799-count-complete-subarrays-in-an-array.cpp) |
 
 
 > You can update this table each time you add a new solution.
