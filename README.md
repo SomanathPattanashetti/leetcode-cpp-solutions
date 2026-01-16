@@ -78,6 +78,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 2461 | Maximum Sum of Distinct Subarrays With Length K | Medium | [2461-maximum-sum-of-distinct-subarrays-with-length-k.cpp](2461-maximum-sum-of-distinct-subarrays-with-length-k.cpp) |
 | 3254 | Find the Power of K-Size Subarrays I | Medium | [3254-find-the-power-of-k-size-subarrays-i.cpp](3254-find-the-power-of-k-size-subarrays-i.cpp) |
 | 219 | Contains Duplicate II | Easy | [219-contains-duplicate-ii.cpp](219-contains-duplicate-ii.cpp) |
+| 645 | Set Mismatch | Easy | [645-set-mismatch.cpp](645-set-mismatch.cpp) |
 
 
 > You can update this table each time you add a new solution.
