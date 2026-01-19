@@ -81,6 +81,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 645 | Set Mismatch | Easy | [645-set-mismatch.cpp](645-set-mismatch.cpp) |
 | 128 | Longest Consecutive Sequence | Medium | [128-longest-consecutive-sequence.cpp](128-longest-consecutive-sequence.cpp) |
 | 14 | Longest Common Prefix | Easy | [14-longest-common-prefix.cpp](14-longest-common-prefix.cpp) |
+| 1405 | Longest Happy String | Medium | [1405-longest-happy-string.cpp](1405-longest-happy-string.cpp) |
 
 
 
