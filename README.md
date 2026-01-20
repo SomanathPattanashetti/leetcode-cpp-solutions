@@ -82,6 +82,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 128 | Longest Consecutive Sequence | Medium | [128-longest-consecutive-sequence.cpp](128-longest-consecutive-sequence.cpp) |
 | 14 | Longest Common Prefix | Easy | [14-longest-common-prefix.cpp](14-longest-common-prefix.cpp) |
 | 1405 | Longest Happy String | Medium | [1405-longest-happy-string.cpp](1405-longest-happy-string.cpp) |
+| 118 | Pascal's Triangle | Easy | [118-pascals-triangle.cpp](118-pascals-triangle.cpp) |
 
 
 
