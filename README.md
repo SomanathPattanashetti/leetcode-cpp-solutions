@@ -83,6 +83,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 14 | Longest Common Prefix | Easy | [14-longest-common-prefix.cpp](14-longest-common-prefix.cpp) |
 | 1405 | Longest Happy String | Medium | [1405-longest-happy-string.cpp](1405-longest-happy-string.cpp) |
 | 118 | Pascal's Triangle | Easy | [118-pascals-triangle.cpp](118-pascals-triangle.cpp) |
+| 119 | Pascal's Triangle II | Easy | [119-pascals-triangle-ii.cpp](119-pascals-triangle-ii.cpp) |
 
 
 
