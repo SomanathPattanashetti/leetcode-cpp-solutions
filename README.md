@@ -86,7 +86,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 119 | Pascal's Triangle II | Easy | [119-pascals-triangle-ii.cpp](119-pascals-triangle-ii.cpp) |
 | 2588 | Count the Number of Beautiful Substrings | Medium | [2588-count-the-number-of-beautiful-substrings.cpp](2588-count-the-number-of-beautiful-substrings.cpp) |
 | 443 | String Compression | Medium | [443-string-compression.cpp](443-string-compression.cpp) |
-
+| 38 | Count and Say | Medium | [38-count-and-say.cpp](38-count-and-say.cpp) |
 
 
 > You can update this table each time you add a new solution.
