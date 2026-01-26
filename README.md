@@ -88,6 +88,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 443 | String Compression | Medium | [443-string-compression.cpp](443-string-compression.cpp) |
 | 38 | Count and Say | Medium | [38-count-and-say.cpp](38-count-and-say.cpp) |
 | 12 | Integer to Roman | Medium | [12-integer-to-roman.cpp](12-integer-to-roman.cpp) |
+| 1662 | Check If Two String Arrays are Equivalent | Easy | [1662-check-if-two-string-arrays-are-equivalent.cpp](1662-check-if-two-string-arrays-are-equivalent.cpp) |
 
 > You can update this table each time you add a new solution.
 
