@@ -91,6 +91,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 1662 | Check If Two String Arrays are Equivalent | Easy | [1662-check-if-two-string-arrays-are-equivalent.cpp](1662-check-if-two-string-arrays-are-equivalent.cpp) |
 | 316 | Remove Duplicate Letters | Medium | [316-remove-duplicate-letters.cpp](316-remove-duplicate-letters.cpp) |
 | 557 | Reverse Words in a String III | Easy | [557-reverse-words-in-a-string-iii.cpp](557-reverse-words-in-a-string-iii.cpp) |
+| 1544 | Make The String Great | Easy | [1544-make-the-string-great.cpp](1544-make-the-string-great.cpp) |
+
 
 
 > You can update this table each time you add a new solution.
