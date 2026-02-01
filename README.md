@@ -92,6 +92,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 316 | Remove Duplicate Letters | Medium | [316-remove-duplicate-letters.cpp](316-remove-duplicate-letters.cpp) |
 | 557 | Reverse Words in a String III | Easy | [557-reverse-words-in-a-string-iii.cpp](557-reverse-words-in-a-string-iii.cpp) |
 | 1544 | Make The String Great | Easy | [1544-make-the-string-great.cpp](1544-make-the-string-great.cpp) |
+| 2938 | Separate Black and White Balls | Medium | [2938-separate-black-and-white-balls.cpp](2938-separate-black-and-white-balls.cpp) |
 
 
 
