@@ -95,6 +95,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 2938 | Separate Black and White Balls | Medium | [2938-separate-black-and-white-balls.cpp](2938-separate-black-and-white-balls.cpp) |
 | 520 | Detect Capital | Easy | [520-detect-capital.cpp](520-detect-capital.cpp) |
 | 1347 | Minimum Number of Steps to Make Two Strings Anagram | Medium | [1347-minimum-number-of-steps-to-make-two-strings-anagram.cpp](1347-minimum-number-of-steps-to-make-two-strings-anagram.cpp) |
+| 70 | Climbing Stairs | Easy | [70-climbing-stairs.cpp](70-climbing-stairs.cpp) |
 
 
 
