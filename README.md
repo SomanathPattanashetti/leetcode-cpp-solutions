@@ -98,6 +98,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 70 | Climbing Stairs | Easy | [70-climbing-stairs.cpp](70-climbing-stairs.cpp) |
 | 198 | House Robber | Medium | [198-house-robber.cpp](198-house-robber.cpp) |
 | 213 | House Robber II | Medium | [213-house-robber-ii.cpp](213-house-robber-ii.cpp) |
+| 1493 | Longest Subarray of 1's After Deleting One Element | Medium | [1493-longest-subarray-of-ones.cpp](1493-longest-subarray-of-ones.cpp) |
 
 
 
