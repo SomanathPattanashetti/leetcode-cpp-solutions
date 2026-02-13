@@ -100,6 +100,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 213 | House Robber II | Medium | [213-house-robber-ii.cpp](213-house-robber-ii.cpp) |
 | 1493 | Longest Subarray of 1's After Deleting One Element | Medium | [1493-longest-subarray-of-ones.cpp](1493-longest-subarray-of-ones.cpp) |
 | 713 | Subarray Product Less Than K | Medium | [713-subarray-product-less-than-k.cpp](713-subarray-product-less-than-k.cpp) |
+| 3163 | String Compression III | Easy | [3163-string-compression-iii.cpp](3163-string-compression-iii.cpp) |
 
 
 
