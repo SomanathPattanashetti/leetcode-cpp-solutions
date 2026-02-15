@@ -102,6 +102,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 713 | Subarray Product Less Than K | Medium | [713-subarray-product-less-than-k.cpp](713-subarray-product-less-than-k.cpp) |
 | 3163 | String Compression III | Easy | [3163-string-compression-iii.cpp](3163-string-compression-iii.cpp) |
 | 28 | Find the Index of the First Occurrence in a String | Easy | [28-find-the-index-of-the-first-occurrence-in-a-string.cpp](28-find-the-index-of-the-first-occurrence-in-a-string.cpp) |
+| 859 | Buddy Strings | Easy | [859-buddy-strings.cpp](859-buddy-strings.cpp) |
 
 
 
