@@ -105,6 +105,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 859 | Buddy Strings | Easy | [859-buddy-strings.cpp](859-buddy-strings.cpp) |
 | 26 | Remove Duplicates from Sorted Array | Easy | [26-remove-duplicates-from-sorted-array.cpp](26-remove-duplicates-from-sorted-array.cpp) |
 | 1877 | Minimize Maximum Pair Sum in Array | Medium | [1877-minimize-maximum-pair-sum-in-array.cpp](1877-minimize-maximum-pair-sum-in-array.cpp) |
+| 402 | Remove K Digits | Medium | [402-remove-k-digits.cpp](402-remove-k-digits.cpp) |
 
 
 
