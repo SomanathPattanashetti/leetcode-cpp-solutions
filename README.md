@@ -111,7 +111,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 451 | Sort Characters By Frequency | Medium | [451-sort-characters-by-frequency.cpp](451-sort-characters-by-frequency.cpp) |
 | 11 | Container With Most Water | Medium | [11-container-with-most-water.cpp](11-container-with-most-water.cpp) |
 | 75 | Sort Colors | Medium | [75-sort-colors.cpp](75-sort-colors.cpp) |
-
+| 973 | K Closest Points to Origin | Medium | [973-k-closest-points-to-origin.cpp](973-k-closest-points-to-origin.cpp) |
 
 
 > You can update this table each time you add a new solution.
