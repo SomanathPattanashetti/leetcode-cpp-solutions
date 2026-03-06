@@ -115,6 +115,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 200 | Number of Islands | Medium | [200-number-of-islands.cpp](200-number-of-islands.cpp) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view.cpp](199-binary-tree-right-side-view.cpp) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view.cpp](199-binary-tree-right-side-view.cpp) |
+| 543 | Diameter of Binary Tree | Easy | [543-diameter-of-binary-tree.cpp](543-diameter-of-binary-tree.cpp) |
 
 
 > You can update this table each time you add a new solution.
