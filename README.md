@@ -116,6 +116,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view.cpp](199-binary-tree-right-side-view.cpp) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view.cpp](199-binary-tree-right-side-view.cpp) |
 | 543 | Diameter of Binary Tree | Easy | [543-diameter-of-binary-tree.cpp](543-diameter-of-binary-tree.cpp) |
+| 279 | Perfect Squares | Medium | [279-perfect-squares.cpp](279-perfect-squares.cpp) |
+
 
 
 > You can update this table each time you add a new solution.
