@@ -118,6 +118,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 543 | Diameter of Binary Tree | Easy | [543-diameter-of-binary-tree.cpp](543-diameter-of-binary-tree.cpp) |
 | 279 | Perfect Squares | Medium | [279-perfect-squares.cpp](279-perfect-squares.cpp) |
 | 55 | Jump Game | Medium | [55-jump-game.cpp](55-jump-game.cpp) |
+| 45 | Jump Game II | Medium | [45-jump-game-ii.cpp](45-jump-game-ii.cpp) |
 
 
 
