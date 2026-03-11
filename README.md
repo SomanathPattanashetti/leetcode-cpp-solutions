@@ -120,6 +120,9 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 55 | Jump Game | Medium | [55-jump-game.cpp](55-jump-game.cpp) |
 | 45 | Jump Game II | Medium | [45-jump-game-ii.cpp](45-jump-game-ii.cpp) |
 | 926 | Flip String to Monotone Increasing | Medium | [926-flip-string-to-monotone-increasing.cpp](926-flip-string-to-monotone-increasing.cpp) |
+| 62 | Unique Paths | Medium | [62-unique-paths.cpp](62-unique-paths.cpp) |
+
+
 
 
 > You can update this table each time you add a new solution.
