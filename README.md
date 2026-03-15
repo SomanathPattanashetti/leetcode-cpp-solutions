@@ -121,7 +121,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 45 | Jump Game II | Medium | [45-jump-game-ii.cpp](45-jump-game-ii.cpp) |
 | 926 | Flip String to Monotone Increasing | Medium | [926-flip-string-to-monotone-increasing.cpp](926-flip-string-to-monotone-increasing.cpp) |
 | 62 | Unique Paths | Medium | [62-unique-paths.cpp](62-unique-paths.cpp) |
-
+| 509 | Fibonacci Number | Easy | [509-fibonacci-number.cpp](509-fibonacci-number.cpp) |
 
 
 
