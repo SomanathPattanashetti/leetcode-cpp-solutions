@@ -123,6 +123,15 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 62 | Unique Paths | Medium | [62-unique-paths.cpp](62-unique-paths.cpp) |
 | 509 | Fibonacci Number | Easy | [509-fibonacci-number.cpp](509-fibonacci-number.cpp) |
 | 300 | Longest Increasing Subsequence | Medium | [300-longest-increasing-subsequence.cpp](300-longest-increasing-subsequence.cpp) |
+| 1143 | Longest Common Subsequence | Medium | [1143-longest-common-subsequence.cpp](1143-longest-common-subsequence.cpp) |
+
+
+
+
+
+
+
+
 
 
 > You can update this table each time you add a new solution.
