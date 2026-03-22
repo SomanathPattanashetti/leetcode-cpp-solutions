@@ -125,7 +125,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 300 | Longest Increasing Subsequence | Medium | [300-longest-increasing-subsequence.cpp](300-longest-increasing-subsequence.cpp) |
 | 1143 | Longest Common Subsequence | Medium | [1143-longest-common-subsequence.cpp](1143-longest-common-subsequence.cpp) |
 | 516 | Longest Palindromic Subsequence | Medium | [516-longest-palindromic-subsequence.cpp](516-longest-palindromic-subsequence.cpp) |
-
+| 518 | Coin Change II | Medium | [518-coin-change-ii.cpp](518-coin-change-ii.cpp) |
 
 
 
