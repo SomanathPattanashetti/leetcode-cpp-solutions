@@ -127,7 +127,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 516 | Longest Palindromic Subsequence | Medium | [516-longest-palindromic-subsequence.cpp](516-longest-palindromic-subsequence.cpp) |
 | 518 | Coin Change II | Medium | [518-coin-change-ii.cpp](518-coin-change-ii.cpp) |
 | 64 | Minimum Path Sum | Medium | [64-minimum-path-sum.cpp](64-minimum-path-sum.cpp) |
-
+| 881 | Boats to Save People | Medium | [881-boats-to-save-people.cpp](881-boats-to-save-people.cpp) |
 
 
 
