@@ -130,7 +130,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 881 | Boats to Save People | Medium | [881-boats-to-save-people.cpp](881-boats-to-save-people.cpp) |
 | 1328 | Break a Palindrome | Medium | [1328-break-a-palindrome.cpp](1328-break-a-palindrome.cpp) |
 | 991 | Broken Calculator | Medium | [991-broken-calculator.cpp](991-broken-calculator.cpp) |
-
+| 2279 | Maximum Bags With Full Capacity of Rocks | Medium | [2279-maximum-bags-with-full-capacity-of-rocks.cpp](2279-maximum-bags-with-full-capacity-of-rocks.cpp) |
 
 
 
