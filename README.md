@@ -134,7 +134,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 1578 | Minimum Time to Make Rope Colorful | Medium | [1578-minimum-time-to-make-rope-colorful.cpp](1578-minimum-time-to-make-rope-colorful.cpp) |
 | 1833 | Maximum Ice Cream Bars | Medium | [1833-maximum-ice-cream-bars.cpp](1833-maximum-ice-cream-bars.cpp) |
 | GFG | DFS of Graph | Easy | [dfs-of-graph.cpp](dfs-of-graph.cpp) |
-
+| GFG | BFS of Graph | Easy | [bfs-of-graph.cpp](bfs-of-graph.cpp) |
 
 
 
