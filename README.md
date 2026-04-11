@@ -135,7 +135,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 1833 | Maximum Ice Cream Bars | Medium | [1833-maximum-ice-cream-bars.cpp](1833-maximum-ice-cream-bars.cpp) |
 | GFG | DFS of Graph | Easy | [dfs-of-graph.cpp](dfs-of-graph.cpp) |
 | GFG | BFS of Graph | Easy | [bfs-of-graph.cpp](bfs-of-graph.cpp) |
-
+| GFG | Detect Cycle in an Undirected Graph | Medium | [detect-cycle-undirected-graph.cpp](detect-cycle-undirected-graph.cpp) |
 
 
 
