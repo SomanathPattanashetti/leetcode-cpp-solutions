@@ -137,7 +137,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | GFG | BFS of Graph | Easy | [bfs-of-graph.cpp](bfs-of-graph.cpp) |
 | GFG | Detect Cycle in an Undirected Graph | Medium | [detect-cycle-undirected-graph.cpp](detect-cycle-undirected-graph.cpp) |
 | GFG | Detect Cycle in an Undirected Graph | Medium | [detect-cycle-undirected-graph.cpp](detect-cycle-undirected-graph.cpp) |
-
+| 547 | Number of Provinces | Medium | [547-number-of-provinces.cpp](547-number-of-provinces.cpp) |
 
 
 
