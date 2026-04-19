@@ -140,6 +140,17 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 547 | Number of Provinces | Medium | [547-number-of-provinces.cpp](547-number-of-provinces.cpp) |
 | 207 | Course Schedule | Medium | [207-course-schedule.cpp](207-course-schedule.cpp) |
 | 210 | Course Schedule II | Medium | [210-course-schedule-ii.cpp](210-course-schedule-ii.cpp) |
+| 785 | Is Graph Bipartite? | Medium | [785-is-graph-bipartite.cpp](785-is-graph-bipartite.cpp) |
+
+
+
+
+
+
+
+
+
+
 
 
 > You can update this table each time you add a new solution.
