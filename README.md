@@ -143,7 +143,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 785 | Is Graph Bipartite? | Medium | [785-is-graph-bipartite.cpp](785-is-graph-bipartite.cpp) |
 | 733 | Flood Fill | Easy | [733-flood-fill.cpp](733-flood-fill.cpp) |
 | 130 | Surrounded Regions | Medium | [130-surrounded-regions.cpp](130-surrounded-regions.cpp) |
-
+| GFG | Disjoint Set (Union-Find) | Easy | [disjoint-set.cpp](disjoint-set.cpp) |
 
 
 
