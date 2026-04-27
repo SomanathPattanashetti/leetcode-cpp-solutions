@@ -145,7 +145,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 130 | Surrounded Regions | Medium | [130-surrounded-regions.cpp](130-surrounded-regions.cpp) |
 | GFG | Disjoint Set (Union-Find) | Easy | [disjoint-set.cpp](disjoint-set.cpp) |
 | 990 | Satisfiability of Equality Equations | Medium | [990-satisfiability-of-equality-equations.cpp](990-satisfiability-of-equality-equations.cpp) |
-
+| 1319 | Number of Operations to Make Network Connected | Medium | [1319-number-of-operations-to-make-network-connected.cpp](1319-number-of-operations-to-make-network-connected.cpp) |
 
 
 
