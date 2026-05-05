@@ -147,7 +147,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 990 | Satisfiability of Equality Equations | Medium | [990-satisfiability-of-equality-equations.cpp](990-satisfiability-of-equality-equations.cpp) |
 | 1319 | Number of Operations to Make Network Connected | Medium | [1319-number-of-operations-to-make-network-connected.cpp](1319-number-of-operations-to-make-network-connected.cpp) |
 | 841 | Keys and Rooms | Medium | [841-keys-and-rooms.cpp](841-keys-and-rooms.cpp) |
-
+| GFG | Dijkstra Algorithm (Shortest Path) | Medium | [dijkstra-algorithm.cpp](dijkstra-algorithm.cpp) |
 
 
 
