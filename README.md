@@ -150,7 +150,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | GFG | Dijkstra Algorithm (Shortest Path) | Medium | [dijkstra-algorithm.cpp](dijkstra-algorithm.cpp) |
 | GFG | Shortest Path in Weighted Undirected Graph | Medium | [shortest-path-in-undirected-graph.cpp](shortest-path-in-undirected-graph.cpp) |
 | 743 | Network Delay Time | Medium | [743-network-delay-time.cpp](743-network-delay-time.cpp) |
-
+| 1091 | Shortest Path in Binary Matrix | Medium | [1091-shortest-path-in-binary-matrix.cpp](1091-shortest-path-in-binary-matrix.cpp) |
 
 
 > You can update this table each time you add a new solution.
