@@ -154,7 +154,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 1631 | Path With Minimum Effort | Medium | [1631-path-with-minimum-effort.cpp](1631-path-with-minimum-effort.cpp) |
 | GFG | Bellman-Ford Algorithm | Medium | [bellman-ford-algorithm.cpp](bellman-ford-algorithm.cpp) |
 | GFG | Floyd Warshall Algorithm | Medium | [floyd-warshall-algorithm.cpp](floyd-warshall-algorithm.cpp) |
-
+| GFG | Minimum Spanning Tree (Prim’s Algorithm) | Medium | [minimum-spanning-tree.cpp](minimum-spanning-tree.cpp) |
 
 
 

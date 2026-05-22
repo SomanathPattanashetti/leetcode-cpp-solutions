@@ -1,5 +1,5 @@
 /*
-    Leetcode / GFG Problem: Floyd Warshall Algorithm
+    Leetcode / GFG Problem: +
     GFG Link: https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1
     Company Tags: Samsung
 
