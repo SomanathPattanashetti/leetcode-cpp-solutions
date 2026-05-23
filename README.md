@@ -155,7 +155,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | GFG | Bellman-Ford Algorithm | Medium | [bellman-ford-algorithm.cpp](bellman-ford-algorithm.cpp) |
 | GFG | Floyd Warshall Algorithm | Medium | [floyd-warshall-algorithm.cpp](floyd-warshall-algorithm.cpp) |
 | GFG | Minimum Spanning Tree (Prim’s Algorithm) | Medium | [minimum-spanning-tree.cpp](minimum-spanning-tree.cpp) |
-
+| 1584 | Min Cost to Connect All Points | Medium | [1584-min-cost-to-connect-all-points.cpp](1584-min-cost-to-connect-all-points.cpp) |
 
 
 > You can update this table each time you add a new solution.
