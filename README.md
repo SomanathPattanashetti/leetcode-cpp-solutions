@@ -159,7 +159,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | GFG | Minimum Spanning Tree (Kruskal’s Algorithm) | Medium | [minimum-spanning-tree-kruskals.cpp](minimum-spanning-tree-kruskals.cpp) |
 | 1584 | Min Cost to Connect All Points | Medium | [1584-min-cost-to-connect-all-points.cpp](1584-min-cost-to-connect-all-points.cpp) |
 | GFG | Euler Circuit and Path | Medium | [euler-circuit-and-path.cpp](euler-circuit-and-path.cpp) |
-
+| 2097 | Valid Arrangement of Pairs | Hard | [2097-valid-arrangement-of-pairs.cpp](2097-valid-arrangement-of-pairs.cpp) |
 
 
 
