@@ -160,7 +160,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 1584 | Min Cost to Connect All Points | Medium | [1584-min-cost-to-connect-all-points.cpp](1584-min-cost-to-connect-all-points.cpp) |
 | GFG | Euler Circuit and Path | Medium | [euler-circuit-and-path.cpp](euler-circuit-and-path.cpp) |
 | 2097 | Valid Arrangement of Pairs | Hard | [2097-valid-arrangement-of-pairs.cpp](2097-valid-arrangement-of-pairs.cpp) |
-
+| 3203 | Find Minimum Diameter After Merging Two Trees | Hard | [3203-find-minimum-diameter-after-merging-two-trees.cpp](3203-find-minimum-diameter-after-merging-two-trees.cpp) |
 
 
 
