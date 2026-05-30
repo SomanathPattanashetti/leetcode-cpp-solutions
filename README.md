@@ -161,6 +161,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | GFG | Euler Circuit and Path | Medium | [euler-circuit-and-path.cpp](euler-circuit-and-path.cpp) |
 | 2097 | Valid Arrangement of Pairs | Hard | [2097-valid-arrangement-of-pairs.cpp](2097-valid-arrangement-of-pairs.cpp) |
 | 3203 | Find Minimum Diameter After Merging Two Trees | Hard | [3203-find-minimum-diameter-after-merging-two-trees.cpp](3203-find-minimum-diameter-after-merging-two-trees.cpp) |
+| 994 | Rotting Oranges | Medium | [994-rotting-oranges.cpp](994-rotting-oranges.cpp) |
 
 
 
