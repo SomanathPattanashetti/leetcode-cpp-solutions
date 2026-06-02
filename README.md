@@ -163,7 +163,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 3203 | Find Minimum Diameter After Merging Two Trees | Hard | [3203-find-minimum-diameter-after-merging-two-trees.cpp](3203-find-minimum-diameter-after-merging-two-trees.cpp) |
 | 994 | Rotting Oranges | Medium | [994-rotting-oranges.cpp](994-rotting-oranges.cpp) |
 | 417 | Pacific Atlantic Water Flow | Medium | [417-pacific-atlantic-water-flow.cpp](417-pacific-atlantic-water-flow.cpp) |
-
+| 433 | Minimum Genetic Mutation | Medium | [433-minimum-genetic-mutation.cpp](433-minimum-genetic-mutation.cpp) |
 
 
 
