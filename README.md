@@ -166,7 +166,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 433 | Minimum Genetic Mutation | Medium | [433-minimum-genetic-mutation.cpp](433-minimum-genetic-mutation.cpp) |
 | 1765 | Map of Highest Peak | Medium | [1765-map-of-highest-peak.cpp](1765-map-of-highest-peak.cpp) |
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | [0236-lowest-common-ancestor-of-a-binary-tree.cpp](0236-lowest-common-ancestor-of-a-binary-tree.cpp) |
-
+| 947 | Most Stones Removed with Same Row or Column | Medium | [947-most-stones-removed-with-same-row-or-column.cpp](947-most-stones-removed-with-same-row-or-column.cpp) |
 
 
 
