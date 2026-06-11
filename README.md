@@ -168,6 +168,13 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | [0236-lowest-common-ancestor-of-a-binary-tree.cpp](0236-lowest-common-ancestor-of-a-binary-tree.cpp) |
 | 947 | Most Stones Removed with Same Row or Column | Medium | [947-most-stones-removed-with-same-row-or-column.cpp](947-most-stones-removed-with-same-row-or-column.cpp) |
 | 797 | All Paths From Source to Target | Medium | [0797-all-paths-from-source-to-target.cpp](0797-all-paths-from-source-to-target.cpp) |
+| 1443 | Minimum Time to Collect All Apples in a Tree | Medium | [1443-minimum-time-to-collect-all-apples-in-a-tree.cpp](1443-minimum-time-to-collect-all-apples-in-a-tree.cpp) |
+
+
+
+
+
+
 
 
 > You can update this table each time you add a new solution.
