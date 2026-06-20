@@ -170,7 +170,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 797 | All Paths From Source to Target | Medium | [0797-all-paths-from-source-to-target.cpp](0797-all-paths-from-source-to-target.cpp) |
 | 1443 | Minimum Time to Collect All Apples in a Tree | Medium | [1443-minimum-time-to-collect-all-apples-in-a-tree.cpp](1443-minimum-time-to-collect-all-apples-in-a-tree.cpp) |
 | 1061 | Lexicographically Smallest Equivalent String | Medium | [1061-lexicographically-smallest-equivalent-string.cpp](1061-lexicographically-smallest-equivalent-string.cpp) |
-
+| 104 | Maximum Depth of Binary Tree | Easy | [104-maximum-depth-of-binary-tree.cpp](104-maximum-depth-of-binary-tree.cpp) |
 
 
 
