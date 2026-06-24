@@ -173,7 +173,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 104 | Maximum Depth of Binary Tree | Easy | [104-maximum-depth-of-binary-tree.cpp](104-maximum-depth-of-binary-tree.cpp) |
 | 100 | Same Tree | Easy | [100-same-tree.cpp](100-same-tree.cpp) |
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree.cpp](101-symmetric-tree.cpp) |
-
+| 226 | Invert Binary Tree | Easy | [226-invert-binary-tree.cpp](226-invert-binary-tree.cpp) |
 
 
 
