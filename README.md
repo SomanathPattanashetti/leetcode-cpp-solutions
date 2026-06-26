@@ -174,7 +174,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 100 | Same Tree | Easy | [100-same-tree.cpp](100-same-tree.cpp) |
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree.cpp](101-symmetric-tree.cpp) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree.cpp](226-invert-binary-tree.cpp) |
-
+| 110 | Balanced Binary Tree | Easy | [110-balanced-binary-tree.cpp](110-balanced-binary-tree.cpp) |
 
 
 > You can update this table each time you add a new solution.
