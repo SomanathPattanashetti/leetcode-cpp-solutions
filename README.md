@@ -176,7 +176,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree.cpp](226-invert-binary-tree.cpp) |
 | 110 | Balanced Binary Tree | Easy | [110-balanced-binary-tree.cpp](110-balanced-binary-tree.cpp) |
 | 112 | Path Sum | Easy | [112-path-sum.cpp](112-path-sum.cpp) |
-
+| 113 | Path Sum II | Medium | [113-path-sum-ii.cpp](113-path-sum-ii.cpp) |
 
 
 
