@@ -177,7 +177,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 110 | Balanced Binary Tree | Easy | [110-balanced-binary-tree.cpp](110-balanced-binary-tree.cpp) |
 | 112 | Path Sum | Easy | [112-path-sum.cpp](112-path-sum.cpp) |
 | 113 | Path Sum II | Medium | [113-path-sum-ii.cpp](113-path-sum-ii.cpp) |
-
+| 98 | Validate Binary Search Tree | Medium | [98-validate-binary-search-tree.cpp](98-validate-binary-search-tree.cpp) |
 
 
 > You can update this table each time you add a new solution.
